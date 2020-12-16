@@ -14,5 +14,7 @@ class ScapeGoatTreeTest {
         assertTrue(tree.add(5));
         assertTrue(tree.add(6));
         assertTrue(tree.remove(3));
+        assertFalse(tree.contains(3));
+        assertFalse(tree.remove(3));
     }
 }

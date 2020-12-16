@@ -79,8 +79,8 @@ public class ScapeGoatTree<T extends Comparable<T>> extends AbstractSet<T> imple
             root = buildBalancedNodes(array, 0, size);
             root.parent = null;
         } else if (parent.right == k) {
-            k.right = buildBalancedNodes(array, 0, size);
-            k.right.parent = parent;
+            parent.right = buildBalancedNodes(array, 0, size);
+            parent.right.parent = parent;
         } else {
             parent.left = buildBalancedNodes(array, 0, size);
             parent.left.parent = parent;
