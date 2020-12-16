@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3350033e-4965-4639-9440-7582d0b45126" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1leWE5Vtx6lH8iR3KfMtoJFFOh5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ScapeGoatTreeTest">
+    <configuration name="ScapeGoatTreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScapeGoatTreeTest" />
+      <module name="ScapeGoatTree" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScapeGoatTreeTest.method" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ScapeGoatTree" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ScapeGoatTreeTest" />
+      <option name="METHOD_NAME" value="method" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScapeGoatTreeTest.method" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="ScapeGoatTree" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ScapeGoatTreeTest" />
+      <option name="METHOD_NAME" value="method" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ScapeGoatTreeTest" />
+      <item itemvalue="JUnit.ScapeGoatTreeTest.method" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScapeGoatTreeTest" />
+        <item itemvalue="JUnit.ScapeGoatTreeTest.method" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3350033e-4965-4639-9440-7582d0b45126" name="Default Changelist" comment="" />
+      <created>1607957922417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607957922417</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="0" key="#Project_Structure" timestamp="1608050976732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1608050976732" />
+    <state x="749" y="339" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1608105268097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="339" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1920.1040@0.0.1920.1040" timestamp="1608105268097" />
+    <state x="410" y="164" width="1164" height="833" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608113759620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="410" y="164" width="1164" height="833" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608113759620" />
+    <state x="718" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1607959427410">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="154" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607959427410" />
+    <state width="1865" height="330" key="GridCell.Tab.0.bottom" timestamp="1608116007353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="330" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608116007353" />
+    <state width="1865" height="330" key="GridCell.Tab.0.center" timestamp="1608116007353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="330" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608116007353" />
+    <state width="1865" height="330" key="GridCell.Tab.0.left" timestamp="1608116007353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="330" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608116007353" />
+    <state width="1865" height="330" key="GridCell.Tab.0.right" timestamp="1608116007353">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="330" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608116007353" />
+    <state width="1865" height="330" key="GridCell.Tab.1.bottom" timestamp="1608116007354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="330" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608116007354" />
+    <state width="1865" height="330" key="GridCell.Tab.1.center" timestamp="1608116007354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="330" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608116007354" />
+    <state width="1865" height="330" key="GridCell.Tab.1.left" timestamp="1608116007354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="330" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608116007354" />
+    <state width="1865" height="330" key="GridCell.Tab.1.right" timestamp="1608116007354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="330" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608116007354" />
+    <state x="312" y="0" key="SettingsEditor" timestamp="1608113248207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="312" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608113248207" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1608115848416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608115848416" />
+    <state x="676" y="110" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1608113525133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="676" y="110" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608113525133" />
+    <state x="638" y="229" key="refactoring.ChangeSignatureDialog" timestamp="1608016707699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="229" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608016707699" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1608110572120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608110572120" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/ScapeGoatTree.java</url>
+          <line>7</line>
+          <properties field="n" class="ScapeGoatTree" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="node.right" language="JAVA" />
+        <watch expression="x.parent.parent" />
+        <watch expression="node.parent" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
